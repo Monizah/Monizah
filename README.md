@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**Monizah/Monizah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "chart-studio >=1.0.0",
+    "colorlover >=0.2.1",
+    "ipython >=5.3.0",
+    "ipywidgets >=7.0.0",
+    "numpy >=1.9.2",
+    "pandas >=0.19.2",
+    "plotly >=4.1.1",
+    "python",
+    "six >=1.9.0"
+  ],
