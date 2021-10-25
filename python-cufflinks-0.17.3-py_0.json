@@ -1,0 +1,323 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "chart-studio >=1.0.0",
+    "colorlover >=0.2.1",
+    "ipython >=5.3.0",
+    "ipywidgets >=7.0.0",
+    "numpy >=1.9.2",
+    "pandas >=0.19.2",
+    "plotly >=4.1.1",
+    "python",
+    "six >=1.9.0"
+  ],
+  "extracted_package_dir": "/Users/muhammadmukhtar/opt/anaconda3/pkgs/python-cufflinks-0.17.3-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/INSTALLER",
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/METADATA",
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/RECORD",
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/WHEEL",
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/pbr.json",
+    "lib/python3.8/site-packages/cufflinks-0.17.3.dist-info/top_level.txt",
+    "lib/python3.8/site-packages/cufflinks/__init__.py",
+    "lib/python3.8/site-packages/cufflinks/auth.py",
+    "lib/python3.8/site-packages/cufflinks/colors.py",
+    "lib/python3.8/site-packages/cufflinks/datagen.py",
+    "lib/python3.8/site-packages/cufflinks/date_tools.py",
+    "lib/python3.8/site-packages/cufflinks/exceptions.py",
+    "lib/python3.8/site-packages/cufflinks/extract.py",
+    "lib/python3.8/site-packages/cufflinks/helper.py",
+    "lib/python3.8/site-packages/cufflinks/offline.py",
+    "lib/python3.8/site-packages/cufflinks/pandastools.py",
+    "lib/python3.8/site-packages/cufflinks/plotlytools.py",
+    "lib/python3.8/site-packages/cufflinks/quant_figure.py",
+    "lib/python3.8/site-packages/cufflinks/ta.py",
+    "lib/python3.8/site-packages/cufflinks/themes.py",
+    "lib/python3.8/site-packages/cufflinks/tools.py",
+    "lib/python3.8/site-packages/cufflinks/utils.py",
+    "lib/python3.8/site-packages/cufflinks/version.py",
+    "lib/python3.8/site-packages/helper/params.json",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/__init__.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/auth.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/colors.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/datagen.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/date_tools.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/exceptions.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/extract.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/helper.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/offline.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/pandastools.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/plotlytools.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/quant_figure.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/ta.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/themes.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/tools.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/utils.cpython-38.pyc",
+    "lib/python3.8/site-packages/cufflinks/__pycache__/version.cpython-38.pyc"
+  ],
+  "fn": "python-cufflinks-0.17.3-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/muhammadmukhtar/opt/anaconda3/pkgs/python-cufflinks-0.17.3-py_0",
+    "type": 1
+  },
+  "md5": "91df52fcba6e1e156319aa290110179a",
+  "name": "python-cufflinks",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/muhammadmukhtar/opt/anaconda3/pkgs/python-cufflinks-0.17.3-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "48195d15844b7e8a7a030f344224572f3388c9c0e07f8dd1ae2dd1677154e8c6",
+        "sha256_in_prefix": "48195d15844b7e8a7a030f344224572f3388c9c0e07f8dd1ae2dd1677154e8c6",
+        "size_in_bytes": 693
+      },
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2cdfdd3998ac193c1edda4d1e2f033160ec1f01ce31520a1439e9cb9658d35c8",
+        "sha256_in_prefix": "2cdfdd3998ac193c1edda4d1e2f033160ec1f01ce31520a1439e9cb9658d35c8",
+        "size_in_bytes": 2334
+      },
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "09b51d2d3a83dfee3359e99ff37ae047fdbf302e13797c3da97c2b5ed7b9c38c",
+        "sha256_in_prefix": "09b51d2d3a83dfee3359e99ff37ae047fdbf302e13797c3da97c2b5ed7b9c38c",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/pbr.json",
+        "path_type": "hardlink",
+        "sha256": "db5943f531c17334221582fbaf5b3e3f018bf1b63a52e6267098ab61bd76a26a",
+        "sha256_in_prefix": "db5943f531c17334221582fbaf5b3e3f018bf1b63a52e6267098ab61bd76a26a",
+        "size_in_bytes": 47
+      },
+      {
+        "_path": "site-packages/cufflinks-0.17.3.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f33992a9030e5058ce5253a676520911c3542820c278199c9301b6942f25e328",
+        "sha256_in_prefix": "f33992a9030e5058ce5253a676520911c3542820c278199c9301b6942f25e328",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/cufflinks/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3d5286e06cf69815be8ab781505adc1458d545efac48a64d3e314d907ba9d5ab",
+        "sha256_in_prefix": "3d5286e06cf69815be8ab781505adc1458d545efac48a64d3e314d907ba9d5ab",
+        "size_in_bytes": 850
+      },
+      {
+        "_path": "site-packages/cufflinks/auth.py",
+        "path_type": "hardlink",
+        "sha256": "0115a63a84a0c5f64c0bb6bebfc26d54eb420c6a2d5f8251ad6f74e9a11a71fb",
+        "sha256_in_prefix": "0115a63a84a0c5f64c0bb6bebfc26d54eb420c6a2d5f8251ad6f74e9a11a71fb",
+        "size_in_bytes": 6082
+      },
+      {
+        "_path": "site-packages/cufflinks/colors.py",
+        "path_type": "hardlink",
+        "sha256": "40cc7b0c3e48ea4bfda8ea011a6e304b322f808168fd426270830f5790c2b1dc",
+        "sha256_in_prefix": "40cc7b0c3e48ea4bfda8ea011a6e304b322f808168fd426270830f5790c2b1dc",
+        "size_in_bytes": 23388
+      },
+      {
+        "_path": "site-packages/cufflinks/datagen.py",
+        "path_type": "hardlink",
+        "sha256": "21f49f61e7a1d8285c215c52280a6b28dd7c9960bff4e6e3e801267c9ad1a8ed",
+        "sha256_in_prefix": "21f49f61e7a1d8285c215c52280a6b28dd7c9960bff4e6e3e801267c9ad1a8ed",
+        "size_in_bytes": 10511
+      },
+      {
+        "_path": "site-packages/cufflinks/date_tools.py",
+        "path_type": "hardlink",
+        "sha256": "6a6ce8ff7d772a6cfa2b545a6502f6019856394468c22b050a6df90131d20c87",
+        "sha256_in_prefix": "6a6ce8ff7d772a6cfa2b545a6502f6019856394468c22b050a6df90131d20c87",
+        "size_in_bytes": 1528
+      },
+      {
+        "_path": "site-packages/cufflinks/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "279d57308bb70a03e9d77be0ae6d314c0b4da54c1ed67291071504243b3b38e5",
+        "sha256_in_prefix": "279d57308bb70a03e9d77be0ae6d314c0b4da54c1ed67291071504243b3b38e5",
+        "size_in_bytes": 39
+      },
+      {
+        "_path": "site-packages/cufflinks/extract.py",
+        "path_type": "hardlink",
+        "sha256": "6468189c5b00eb5508d897651142fb8f248556f978b84e4472e5750ad5e74c37",
+        "sha256_in_prefix": "6468189c5b00eb5508d897651142fb8f248556f978b84e4472e5750ad5e74c37",
+        "size_in_bytes": 2295
+      },
+      {
+        "_path": "site-packages/cufflinks/helper.py",
+        "path_type": "hardlink",
+        "sha256": "3656e4d00475d5ed8ddcabd6a806ec6ef90575c41c4de667631d470dd4fb9e68",
+        "sha256_in_prefix": "3656e4d00475d5ed8ddcabd6a806ec6ef90575c41c4de667631d470dd4fb9e68",
+        "size_in_bytes": 4234
+      },
+      {
+        "_path": "site-packages/cufflinks/offline.py",
+        "path_type": "hardlink",
+        "sha256": "fd1914df0598018ef78ae7b228a23c7e19e75ab3b6e273da453eb11c96690777",
+        "sha256_in_prefix": "fd1914df0598018ef78ae7b228a23c7e19e75ab3b6e273da453eb11c96690777",
+        "size_in_bytes": 1409
+      },
+      {
+        "_path": "site-packages/cufflinks/pandastools.py",
+        "path_type": "hardlink",
+        "sha256": "6ae12c0013f7f97718e372fc03de9a5b0d531620dcffa303757ca943157b01f3",
+        "sha256_in_prefix": "6ae12c0013f7f97718e372fc03de9a5b0d531620dcffa303757ca943157b01f3",
+        "size_in_bytes": 2712
+      },
+      {
+        "_path": "site-packages/cufflinks/plotlytools.py",
+        "path_type": "hardlink",
+        "sha256": "89768b2effced1c5f66188034d45ecca0304c254790bf940d2007bb62684a4cf",
+        "sha256_in_prefix": "89768b2effced1c5f66188034d45ecca0304c254790bf940d2007bb62684a4cf",
+        "size_in_bytes": 55682
+      },
+      {
+        "_path": "site-packages/cufflinks/quant_figure.py",
+        "path_type": "hardlink",
+        "sha256": "177001e16e9ac4a3a1af6468e025184769001aac7e03854d10f24c9fe46e61fd",
+        "sha256_in_prefix": "177001e16e9ac4a3a1af6468e025184769001aac7e03854d10f24c9fe46e61fd",
+        "size_in_bytes": 38707
+      },
+      {
+        "_path": "site-packages/cufflinks/ta.py",
+        "path_type": "hardlink",
+        "sha256": "f5be9db7943f60ed2eb9c964e506dee03ca1872d26fe91be95757088d3655e9f",
+        "sha256_in_prefix": "f5be9db7943f60ed2eb9c964e506dee03ca1872d26fe91be95757088d3655e9f",
+        "size_in_bytes": 16745
+      },
+      {
+        "_path": "site-packages/cufflinks/themes.py",
+        "path_type": "hardlink",
+        "sha256": "56482f07e2b11c6039dcb173bdcc7f1abf45801e8130f1608d2b559eabdb4ade",
+        "sha256_in_prefix": "56482f07e2b11c6039dcb173bdcc7f1abf45801e8130f1608d2b559eabdb4ade",
+        "size_in_bytes": 6122
+      },
+      {
+        "_path": "site-packages/cufflinks/tools.py",
+        "path_type": "hardlink",
+        "sha256": "e4179cbc114868af2783ec113ec3cb883a7001a04cb44d5c5ec0402cf17217d0",
+        "sha256_in_prefix": "e4179cbc114868af2783ec113ec3cb883a7001a04cb44d5c5ec0402cf17217d0",
+        "size_in_bytes": 45290
+      },
+      {
+        "_path": "site-packages/cufflinks/utils.py",
+        "path_type": "hardlink",
+        "sha256": "2ad904184a181b403622ba5551fe0a36ba8361f3124f6a68f039212443d92f24",
+        "sha256_in_prefix": "2ad904184a181b403622ba5551fe0a36ba8361f3124f6a68f039212443d92f24",
+        "size_in_bytes": 4887
+      },
+      {
+        "_path": "site-packages/cufflinks/version.py",
+        "path_type": "hardlink",
+        "sha256": "5d616e4476a08be51895574439c3ec349e7a906f8d1c9f3af7e1172ce5709890",
+        "sha256_in_prefix": "5d616e4476a08be51895574439c3ec349e7a906f8d1c9f3af7e1172ce5709890",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "site-packages/helper/params.json",
+        "path_type": "hardlink",
+        "sha256": "823c311cb370f41859120984da8b449c6db1d771718b1a9b2b5cd5b6957a9733",
+        "sha256_in_prefix": "823c311cb370f41859120984da8b449c6db1d771718b1a9b2b5cd5b6957a9733",
+        "size_in_bytes": 51212
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/auth.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/colors.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/datagen.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/date_tools.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/exceptions.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/extract.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/helper.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/offline.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/pandastools.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/plotlytools.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/quant_figure.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/ta.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/themes.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/tools.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/utils.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.8/site-packages/cufflinks/__pycache__/version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5b8f45972aceea80fc0fca3aa892e9ed0e33ecb71c31fb794dd1c4c50e683913",
+  "size": 60324,
+  "subdir": "noarch",
+  "timestamp": 1583384761109,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/python-cufflinks-0.17.3-py_0.tar.bz2",
+  "version": "0.17.3"
+}
